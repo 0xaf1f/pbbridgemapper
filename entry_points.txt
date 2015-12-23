@@ -1,0 +1,3 @@
+[console_scripts]
+pbbridgemapper = pbbridgemapper.main:main
+
